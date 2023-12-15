@@ -1,5 +1,6 @@
 using System;
-using congestion.calculator;
+using congestion.calculator.Models;
+
 public class CongestionTaxCalculator
 {
     /**

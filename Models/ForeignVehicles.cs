@@ -1,10 +1,10 @@
 using System;
 
-namespace congestion.calculator
+namespace congestion.calculator.Models
 {
     public class ForeignVehicles : Vehicle
     {
-        public String GetVehicleType()
+        public string GetVehicleType()
         {
             return "ForeignVehicles";
         }
